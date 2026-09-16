@@ -1,0 +1,4 @@
+Meu Bolso - controle financeiro
+Suba todos estes arquivos na raiz de um repositório do GitHub e ative o GitHub Pages
+(Settings > Pages > Deploy from a branch > main > /root).
+Os dados ficam salvos no navegador do celular. Use Ajustes > Baixar backup com frequência.
